@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<Players>
+    <Player>
+        <Name>L.Messi</Name>
+        <Age>31</Age>
+        <Team>Barecelona</Team>
+        <League>Liga</League>
+        <picture>https://i.pinimg.com/originals/30/ee/76/30ee76f6948761f5e4d2a381995b8bc8.png</picture>
+        <stats>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/2/2-Messi-lg.jpg</stats>
+        <rank>2</rank>
+    </Player>
+    <Player>
+        <Name>C.Ronaldo</Name>
+        <Age>34</Age>
+        <Team>Juventus</Team>
+        <League>Serie A</League>
+        <picture>https://s.hs-data.com/bilder/spieler/gross/13029.jpg</picture>
+        <rank>1</rank>
+        <stats>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/1/1-Ronaldo-lg.jpg</stats>
+    </Player>
+    <Player>
+        <Name>K.Benzema</Name>
+        <Age>31</Age>
+        <Team>R.Madrid</Team>
+        <League>Liga</League>
+        <picture>https://upload.wikimedia.org/wikipedia/commons/a/ae/CSKA-RM18_%289%29.jpg</picture>
+        <rank>5</rank>
+        <stats>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/50-41/43/43-Benzema-lg.jpg</stats>
+    </Player>
+    <Player>
+        <Name>P.Pogba</Name>
+        <Age>25</Age>
+        <Team>Manchester United</Team>
+        <League>Premier League</League>
+        <picture>https://www.thesun.co.uk/wp-content/uploads/2019/12/NINTCHDBPICT000525312570.jpg</picture>
+        <rank>4</rank>
+        <stats>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/20through11/18/18-Pogba-lg.jpg</stats>
+    </Player>
+    <Player>
+        <Name>J.Neymar</Name>
+        <Age>27</Age>
+        <Team>Paris Saint-Germain</Team>
+        <League>Ligue 1</League>
+        <picture>https://i.pinimg.com/736x/3a/c8/d9/3ac8d9bf0ff36d570ae798c216c8d427.jpg</picture>
+        <rank>3</rank>
+        <stats>https://media.contentapi.ea.com/content/dam/ea/easports/fifa/ratings/2016/top50/_third-1st/3/3-Neymar-lg.jpg</stats>
+    </Player>
+</Players>
